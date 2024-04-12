@@ -36,8 +36,7 @@ https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/30/2560x3839/australian-sheph
 ### Inline code and Code Blocks
 Inline code `print(hello)`
 ```python
-Code block
-print("hello")
+Codeblock print("hello")
 
 
 | Color | Amount | Shape |
