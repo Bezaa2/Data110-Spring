@@ -34,17 +34,14 @@ https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/30/2560x3839/australian-sheph
 "love the life you live, live the life you love" -Bob Marley
 
 ### Inline code and Code Blocks
-Inline code 
-`print(hello)`
+Inline code `print(hello)`
 ```python
 Code block
 print("hello")
 
 
-Tables
-
 | Color | Amount | Shape |
-|:-------|:--------:|-------:|
+|-----|------|-----|
 | Blue | 2 | Circle |
 | Green | 1 | Square |
 | Yellow | 2 | Triangle |
