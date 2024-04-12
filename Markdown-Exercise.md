@@ -41,7 +41,7 @@ Inline code
 Code block
 print("hello")
 
-### Tables
+Tables
 
 | Color | Amount | Shape |
 |-------|--------|-------|
@@ -49,11 +49,11 @@ print("hello")
 | Green | 1 | Square |
 | Yellow | 2 | Triangle |
 
-### Tasklist
+Tasklist
 - [ ] Wash Dishes
 - [x] Wash Laundry
 
-### Footnotes
+Footnotes
 
 [^1] This is a footnote
 
