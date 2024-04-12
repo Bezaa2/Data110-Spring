@@ -37,14 +37,14 @@ https://hips.hearstapps.com/ghk.h-cdn.co/assets/17/30/2560x3839/australian-sheph
 Inline code 
 `print(hello)`
 ```python
-
 Code block
 print("hello")
+
 
 Tables
 
 | Color | Amount | Shape |
-|-------|--------|-------|
+|:-------|:--------:|-------:|
 | Blue | 2 | Circle |
 | Green | 1 | Square |
 | Yellow | 2 | Triangle |
